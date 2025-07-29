@@ -11,11 +11,11 @@ const About = () => {
       linkedin: 'https://www.linkedin.com/in/lakshya-agarwal-98341b287/',
     },
     {
-      name: 'Aditya Gunjkar',
+      name: 'Hrushikesh Gore',
       role: 'Web Developer',
       description: 'Frontend specialist with expertise in React.js and modern UI frameworks.',
-      github: 'https://github.com/aditya-gg04',
-      linkedin: 'https://www.linkedin.com/in/aditya-gunjkar-5b9437288/',
+      github: 'https://github.com/hrushiK1415',
+      linkedin: 'https://www.linkedin.com/in/hrushikesh-gore/',
     },
     {
       name: 'Nachiket',
@@ -31,10 +31,10 @@ const About = () => {
       <div className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-20'>
         <div className='text-center mb-8'>
           <h1 className='text-4xl font-bold tracking-tight mb-4'>
-            About <span className='text-[#f58b44]'>MindChain</span>
+            About <span className='text-[#f58b44]'>Aaramya</span>
           </h1>
           <p className='max-w-2xl mx-auto text-lg'>
-            MindChain combines blockchain with mental wellness to create a rewarding mindfulness experience.
+            Aaramya combines blockchain with mental wellness to create a rewarding mindfulness experience.
           </p>
         </div>
         <div className='py-2'>

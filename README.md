@@ -1,4 +1,4 @@
-# **MindChain**
+# **Aaramya**
 
 <div align="center">
   
@@ -16,9 +16,9 @@
 
 ## 🧠 Overview
 
-MindChain is a **blockchain-integrated wellness platform** that rewards users with **Soul Tokens** for engaging in mindfulness activities. These tokens can be redeemed for discounts on expert-led workshops, creating a unique incentive system for mental wellbeing.
+Aaramya is a **blockchain-integrated wellness platform** that rewards users with **Soul Tokens** for engaging in mindfulness activities. These tokens can be redeemed for discounts on expert-led workshops, creating a unique incentive system for mental wellbeing.
 
-Built on Ethereum and utilizing PyUSD for stable transactions, MindChain combines modern frontend technologies with blockchain capabilities to deliver a seamless, responsive user experience across all devices.
+Built on Ethereum and utilizing PyUSD for stable transactions, Aaramya combines modern frontend technologies with blockchain capabilities to deliver a seamless, responsive user experience across all devices.
 
 ---
 
@@ -108,7 +108,7 @@ Built on Ethereum and utilizing PyUSD for stable transactions, MindChain combine
 ## 📦 Project Structure
 
 ```
-MindChain/
+Aaramya/
 ├── frontend/                # React frontend application
 │   ├── src/
 │   │   ├── components/      # Reusable UI components
@@ -142,8 +142,8 @@ MindChain/
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/aditya-gg04/MindChain.git
-   cd MindChain
+   git clone https://github.com/hrushiK1415/Aaramya.git
+   cd Aaramya
    ```
 
 2. **Frontend Setup:**
@@ -190,9 +190,9 @@ MindChain/
 
 | <img src="https://github.com/Lakshya0000.png" alt="Lakshya Agarwal" width="100" height="100" style="border-radius:50%"/> | <img src="https://github.com/aditya-gg04.png" alt="Aditya Gunjkar" width="100" height="100" style="border-radius:50%"/> | <img src="https://github.com/nachiketdeore09.png" alt="Nachiket Deore" width="100" height="100" style="border-radius:50%"/> |
 | :----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
-|                                                   **Lakshya Agarwal**                                                    |                                                   **Aditya Gunjkar**                                                    |                                                     **Nachiket Deore**                                                      |
+|                                                   **Lakshya Agarwal**                                                    |                                                   **Hrushikesh Gore**                                                    |                                                     **Nachiket Deore**                                                      |
 |                                                  Frontend & Blockchain                                                   |                                                    Frontend & UI/UX                                                     |                                                       Smart Contracts                                                       |
-|                                         [GitHub](https://github.com/Lakshya0000)                                         |                                        [GitHub](https://github.com/aditya-gg04)                                         |                                        [GitHub](https://github.com/nachiketdeore09)                                         |
+|                                         [GitHub](https://github.com/Lakshya0000)                                         |                                        [GitHub](https://github.com/hrushiK1415)                                         |                                        [GitHub](https://github.com/nachiketdeore09)                                         |
 
 </div>
 
@@ -210,6 +210,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-[![Live Site](https://img.shields.io/badge/Visit_Live_Site-mind--chain.vercel.app-f58b44?style=for-the-badge)](https://mind-chain.vercel.app/)
+
 
 </div>

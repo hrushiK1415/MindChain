@@ -40,7 +40,7 @@ const Navbar = () => {
             <Link to='/' className='flex items-center gap-3'>
               <img src={headspaceLogo} alt='MindChain Logo' className='h-10 w-10' />
               <span className='font-bold text-2xl text-[#4b5161] dark:text-[#fdf5eb]'>
-                Mind<span className='text-[#f58b44]'>Chain</span>
+                Aaramya<span className='text-[#f58b44]'></span>
               </span>
             </Link>
           </div>

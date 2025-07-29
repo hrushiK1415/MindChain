@@ -12,22 +12,14 @@ const Footer = () => {
           <div className='flex items-center'>
             <Link to='/' className='flex items-center gap-2'>
               <span className='font-bold text-xl'>
-                Mind<span className='text-[#f58b44]'>Chain</span>
+                Aaramya<span className='text-[#f58b44]'></span>
               </span>
             </Link>
           </div>
           <p className='text-sm font-medium hidden sm:block'>
-            © {currentYear} MindChain. All rights reserved.
+            © {currentYear} Aaramya. All rights reserved.
           </p>
-          <div className='flex space-x-3'>
-            <a
-              href='https://github.com/aditya-gg04/MindChain'
-              target='_blank'
-              rel='noopener noreferrer'
-              className='w-9 h-9 flex items-center justify-center bg-[#fdf5eb] text-[#4b5161] hover:bg-[#f58b44] hover:text-white rounded-full transition-all duration-200'>
-              <FaGithub size={18} />
-            </a>
-          </div>
+          
         </div>
         <div className='mt-3 text-center sm:hidden'>
           <p className='text-xs'>© {currentYear} MindChain. All rights reserved.</p>

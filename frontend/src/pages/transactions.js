@@ -151,7 +151,7 @@ const Transactions = () => {
               Transaction History
             </h1>
             <p className='text-lg text-[#fdf5eb]'>
-              Track all your transactions on the MindChain.
+              Track all your transactions on the Aaramya.
             </p>
           </div>
         </div>
