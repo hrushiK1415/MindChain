@@ -13,7 +13,7 @@ const Home = () => {
           {/* Left Column - Text Content */}
           <div className='w-full md:w-1/2 md:pr-8'>
             <h1 className='text-4xl md:text-5xl lg:text-6xl font-bold mb-4'>
-              <span className='text-[#f58b44]'>Mind</span> Chain
+              <span className='text-[#f58b44]'>Aaramya</span> 
             </h1>
             <h2 className='text-2xl md:text-3xl font-semibold text-[#4b5161] dark:text-[#fdf5eb] mb-4'>
             Be kind to your mind, it will be fine
