@@ -6,7 +6,7 @@
   [![React](https://img.shields.io/badge/React-v18.2.0-61dafb.svg)](https://reactjs.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v3.3.0-38bdf8.svg)](https://tailwindcss.com/)
   [![Solidity](https://img.shields.io/badge/Solidity-v0.8.17-363636.svg)](https://soliditylang.org/)
-  [![Live Site](https://img.shields.io/badge/Live_Site-Vercel-000000.svg)](https://mind-chain.vercel.app/)
+  [![Live Site](https://img.shields.io/badge/Live_Site-Vercel-000000.svg)](https://aaramya.vercel.app/)
   
 </div>
 
